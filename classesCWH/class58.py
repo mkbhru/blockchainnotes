@@ -29,4 +29,5 @@ o3 = Employee.from_str("RamSita-9989-warrior")
 
 o1.printGood("awesome:)")
 
-""" to keep things precise we use these methods so that only what we need to  use should be created and used """
+""" to keep things precise we use these methods so that only what we need to  use should be
+ created and used """

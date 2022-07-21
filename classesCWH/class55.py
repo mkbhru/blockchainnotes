@@ -6,7 +6,7 @@ class Employee:
         self.salary=salary
         self.role=role
     
-    def printdetails(self):#therefore self represents calling instance or object, it is used to handle
+    def printdetails(self):#therefore self represents calling instance or object, it is used to handle 
         #automatically passed argument of calling instance
         return f"Name is {self.name}. Salary is {self.salary} and role is {self.role}"
 
